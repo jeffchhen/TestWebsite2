@@ -1,6 +1,8 @@
 
-# Happy Birthday Laura!
-[image](https://i.imgur.com/dWLWqSH.gif)
+
+### Happy Birthday Laura!
+![image](https://i.imgur.com/dWLWqSH.gif)
+
 ---
 
 Insert Memories Here. Eveyone makes a slide and does stuff. 

@@ -1,13 +1,9 @@
-# Gatsby Deck
 
-Create presentations using Gatsby & React.
-
+# Happy Birthday Laura!
+[image](https://i.imgur.com/dWLWqSH.gif)
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
+Insert Memories Here. Eveyone makes a slide and does stuff. 
 > <cite>Don Norman</cite>
 
 ---
@@ -23,3 +19,4 @@ Here's the source of the first slide:
     # Gatsby Deck
 
     Create presentations using Gatsby & React.
+

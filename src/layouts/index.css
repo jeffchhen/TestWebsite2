@@ -142,7 +142,7 @@ header {
   text-align: center;
   position: fixed;
   text-emphasis: bold;
-  color: green;
+  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -151,6 +151,10 @@ header {
   padding: 20px;
 
   user-select: none;
+  animation-name: red2yellow;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 header a,
@@ -161,8 +165,7 @@ time {
 }
 
 header :hover {
-  text-decoration: overline;
-  animation-name: red2blue;
+  animation-name: red2yellow;
   animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
@@ -174,7 +177,7 @@ header span {
   color: var(--text);
 }
 
-@keyframes red2blue {
+@keyframes red2yellow {
   0%   {color:red; left:0px; top:0px;}
   25%  {color:yellow; left:200px; top:0px;}
   50%  {color:pink; left:200px; top:200px;}

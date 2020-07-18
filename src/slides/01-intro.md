@@ -15,7 +15,7 @@
 ---
 
 <img src="https://i.imgur.com/s28gPe5.jpg" style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:400px; height: auto;
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto;
 "/>
 <!--3 Tutor Dimofte-->
 

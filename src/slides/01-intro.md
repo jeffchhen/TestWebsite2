@@ -80,8 +80,10 @@ style=
 
 ---
 
-![image2](https://imgur.com/a/JIedQK8)
-
+<video controls loop autoplay preload="none" src="https://i.imgur.com/RuBNbXu.mp4" 
+style=
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto; top:25px
+">
 ---
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/sdhdOzO.mp4" 

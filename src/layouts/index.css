@@ -118,7 +118,10 @@ code {
 
 a:hover {
   color: var(--accent);
-  color: green;
+  animation-name: red2yellow;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 h1 {

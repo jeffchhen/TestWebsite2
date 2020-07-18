@@ -117,6 +117,7 @@ code {
 }
 
 a:hover {
+  color: var(--accent);
   animation-name: red2yellow;
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -179,7 +180,9 @@ h1 :hover{
   animation-direction: alternate;
 }
 
-
+header span {
+  color: var(--text);
+}
 
 @keyframes red2yellow {
   0%   {color:red; left:0px; top:0px;}

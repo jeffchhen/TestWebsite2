@@ -162,7 +162,6 @@ time {
 
 header :hover {
   color: var(--meta);
-  color: black;
   animation-name: red2blue;
   animation-duration: 4s;
   animation-iteration-count: infinite;

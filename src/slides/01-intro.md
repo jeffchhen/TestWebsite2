@@ -80,12 +80,16 @@ style=
 
 ---
 
+<<<<<<< HEAD
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/RuBNbXu.mp4" 
 style=
 "border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto; top:25px
 ">
 <!-- Laura Dancing -->
+=======
+![image2](https://imgur.com/a/JIedQK8)
+>>>>>>> 86e5b9b10c884ce32b83e89bbb56a4a76dbf8503
 
 ---
 

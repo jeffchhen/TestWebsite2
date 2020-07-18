@@ -118,7 +118,7 @@ code {
 
 a:hover {
   color: var(--accent);
-  color: red;
+  color: green;
 }
 
 h1 {

@@ -142,7 +142,7 @@ header {
   text-align: center;
   position: fixed;
   text-emphasis: bold;
-
+  color: blue;
   display: flex;
   justify-content: center;
   align-items: center;

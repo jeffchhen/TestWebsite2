@@ -166,6 +166,7 @@ time {
 }
 
 header :hover {
+  text-decoration: underline;
   animation-name: red2yellow;
   animation-duration: 4s;
   animation-iteration-count: infinite;

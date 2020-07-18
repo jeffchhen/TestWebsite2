@@ -6,7 +6,7 @@
 
 ---
 
-<a href="google.com" target="_blank">
+<a href="https://ucdavis.zoom.us/j/8148111051" target="_blank">
 <img src="https://images.news18.com/ibnlive/uploads/2020/04/zoom.jpg?impolicy=website&width=536&height=356"  onMouseOver="this.style.border-style='dotted'"/>
 </a>
 

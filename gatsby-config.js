@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    name: `Happy Birthday`,
-    title: `yaaaaah`,
+    name: `Happy Birthday Laura`,
+    title: `!!!`,
     date: `July 19, 2020`,
   },
   plugins: [

@@ -10,9 +10,9 @@ import './index.css';
 const Header = ({ name, title, date }) => (
   <header>
     <Link to="/1">
-      <span>{name}</span> — {title}
+      <h1><span>{name}{title}</span> </h1>
     </Link>
-    <time>{date}</time>
+    
   </header>
 );
 

@@ -15,7 +15,7 @@
 ---
 
 <img src="https://i.imgur.com/s28gPe5.jpg" style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto;
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:400px; height: auto;
 "/>
 <!--3 Tutor Dimofte-->
 
@@ -24,7 +24,7 @@
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/RAVwa2r.mp4" width="420" height="340" 
 style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:500px; height: auto;
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:600px; height: auto;
 ">
 <source src="https://i.imgur.com/RAVwa2r.mp4" type="video/mp4">
 <!-- hikari poking laura -->
@@ -33,13 +33,13 @@ style=
 ---
 
 
-<img src="https://i.imgur.com/86DYsCf.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:250px; height: auto;" width="200px" height="400px" />
+<img src="https://i.imgur.com/86DYsCf.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:350px; height: auto;" width="200px" height="400px" />
 <!--4 Laura holding a bear-->
 
 
 ---
 
-<img src="https://i.imgur.com/YmBQ28U.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:350px; height: auto; top: 10px"/>
+<img src="https://i.imgur.com/YmBQ28U.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:450px; height: auto; top: 10px"/>
 <p> For the memories - Riya  <p\>
 <!--5 Laura and Hikari Laughing-->
 
@@ -50,7 +50,7 @@ style=
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/rsocHuZ.mp4" 
 style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto;
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto;
 ">
 
 </video>
@@ -67,7 +67,7 @@ style=
 
 ---
 
-<img src="https://i.imgur.com/z1kkTRN.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:450px; height: auto; top: 50px" width="300px" height="400px" />
+<img src="https://i.imgur.com/z1kkTRN.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:550px; height: auto; top: 50px" width="300px" height="400px" />
 
 <!-- The four of us -->
 
@@ -75,20 +75,20 @@ style=
 ---
 
 
-<img src="https://i.imgur.com/iBYx1yl.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:250px; height: auto; top: 50px"  />
+<img src="https://i.imgur.com/iBYx1yl.jpg" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:350px; height: auto; top: 50px"  />
 
 
 ---
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/RuBNbXu.mp4" 
 style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto; top:25px
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto; top:25px
 ">
 ---
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/sdhdOzO.mp4" 
 style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto; top:25px
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto; top:25px
 ">
 <!-- Laura Drawing Ugly-->
 
@@ -96,14 +96,14 @@ style=
 
 <video controls loop autoplay preload="none" src="https://i.imgur.com/9o22UYd.mp4" 
 style=
-"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto; top:25px
+"border-style: none; position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto; top:25px
 ">
 <!-- Hikari Waving Boba-->
 
 ---
 
 <p top: 500px style="top: 100px">Special shoutout to... uwuwwuwu </p>
-<img src="https://i.imgur.com/fa68Tx8.png" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:200px; height: auto; " width="300px" height="400px" />
+<img src="https://i.imgur.com/fa68Tx8.png" style="position: relative; display: block; margin-left: auto; margin-right: auto; width:100%; max-width:300px; height: auto; " width="300px" height="400px" />
 
 <!--Hikari Bts -->
 
